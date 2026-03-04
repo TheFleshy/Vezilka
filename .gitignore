@@ -1,0 +1,7 @@
+# Игнорирај датасети и логови
+raw_data/
+clean_data/
+logs/
+
+# Игнорирај Jupyter кеш
+.ipynb_checkpoints/
